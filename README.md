@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![MasterHead](https://media-exp3.licdn.com/dms/image/C5616AQG_lMd9WFKm7g/profile-displaybackgroundimage-shrink_200_800/0/1616249463335?e=1628726400&v=beta&t=rBH3PbVaD5-SGz499cMAXZAu2F4HcelfFQi-a2wT_NE)](https://github.com/tsironneau)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tanguy-sironneau/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
