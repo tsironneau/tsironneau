@@ -1,8 +1,21 @@
-[![MasterHead](https://media-exp3.licdn.com/dms/image/C5616AQG_lMd9WFKm7g/profile-displaybackgroundimage-shrink_200_800/0/1616249463335?e=1628726400&v=beta&t=rBH3PbVaD5-SGz499cMAXZAu2F4HcelfFQi-a2wT_NE)](https://github.com/tsironneau)
+[![MasterHead](https://user-images.githubusercontent.com/17828162/121788781-5daa2580-cbd0-11eb-9716-1ca59a8ea145.jpg)](https://github.com/tsironneau)
 
 [![Les Stats GitHub](https://github-readme-stats.vercel.app/api?username=tsironneau&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tsironneau&theme=tokyonight)](https://git.io/streak-stats)
 
-
+ <!-- Skills -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/java/java-plain.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/spring/spring-original.svg" alt="git" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/mysql/mysql-original-wordmark.svg" alt="git" width="40" height="40"/>   
+<img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/postgresql/postgresql-original-wordmark.svg" alt="git" width="40" height="40"/>    
+<img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/intellij/intellij-original.svg" alt="git" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/linux/linux-original.svg" alt="git" width="40" height="40"/>  
+ </p>
+ 
+ <!-- Social Network -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tanguy-sironneau/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
