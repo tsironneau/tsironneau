@@ -1,7 +1,9 @@
 [![MasterHead](https://user-images.githubusercontent.com/17828162/121788781-5daa2580-cbd0-11eb-9716-1ca59a8ea145.jpg)](https://github.com/tsironneau)
 
-[![Les Stats GitHub](https://github-readme-stats.vercel.app/api?username=tsironneau&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tsironneau&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tsironneau&show_icons=true&theme=tokyonight" height="180"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=tsironneau&theme=tokyonight" height="180"/>
+</p>
 
  <!-- Skills -->
 <h3 align="left">Languages and Tools:</h3>
